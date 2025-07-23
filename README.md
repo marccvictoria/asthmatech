@@ -72,4 +72,4 @@ Using a Decision Tree-based machine learning model, the system analyzes real-tim
 
 ## License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the **Apache-2.0 License**.
